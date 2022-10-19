@@ -10,6 +10,8 @@ namespace AdvProgGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("press any key to continue...");
+            Console.ReadKey();
         }
     }
 }
