@@ -16,6 +16,8 @@ namespace AdvProgGit
                 Console.Write(i+", ")
             }
 
+            Console.WriteLine("test");
+
             Console.WriteLine("press any key to continue...");
             Console.ReadKey();
         }
